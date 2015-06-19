@@ -1,0 +1,13 @@
+{
+    "main": "index.html",
+    "name": "nwjsterminal",
+    "version": "1.0.0",
+    "description": "A terminal, in your browser?!",
+    "keywords": ["demo", "node-webkit"],
+    "window": {
+        "toolbar": true
+    },
+    "webkit": {
+        "plugin": true
+    }
+}
